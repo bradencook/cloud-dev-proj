@@ -1,8 +1,516 @@
 INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Consumer started
 INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Consumer started
+INFO:root:Stored widget in DynamoDB id=0d3d2620-0404-4080-9d60-0e6fed1b331d
+INFO:root:Stored widget in DynamoDB id=9462ef1c-7ea1-433e-b6ce-21f4da3ca77c
+INFO:root:Stored widget in DynamoDB id=db314833-0787-4d88-b888-1dfa5c30c6d0
+INFO:root:Stored widget in DynamoDB id=a7b1ad8d-88e5-40fa-9f12-0bb2acd8ebd0
+INFO:root:Stored widget in DynamoDB id=024b0125-50ed-40a7-8b13-a345f16478a5
+INFO:root:Stored widget in DynamoDB id=4b919698-f8e2-4bd8-939d-2a0f6dd03d80
+INFO:root:Stored widget in DynamoDB id=f7c3b2db-6321-4c98-898d-3c7cb41bb9a2
+INFO:root:Stored widget in DynamoDB id=6d1449f8-bc47-4572-ba4a-efca5c4fd7f0
+INFO:root:Stored widget in DynamoDB id=f3f9b9a6-08d5-44f4-b010-ec26e563dc4f
+INFO:root:Stored widget in DynamoDB id=7f49f53c-a0cd-49ba-8547-9437e6555b58
+INFO:root:Stored widget in DynamoDB id=46a4004d-f679-4e98-a1b8-4ea235f1c2b4
+INFO:root:Stored widget in DynamoDB id=00c1fe58-c551-4763-9c38-cd01caf4a9ce
+INFO:root:Stored widget in DynamoDB id=bd51e34f-f11f-42d5-8167-bde20482ed68
+INFO:root:Stored widget in DynamoDB id=f11fbbf5-389b-4ae2-8876-d825d2ae55e3
+INFO:root:Stored widget in DynamoDB id=16a29c51-563b-4cfa-8c31-3de91664b609
+INFO:root:Stored widget in DynamoDB id=bf3d3cf7-7376-4536-8f36-4f4fdb355d89
+INFO:root:Stored widget in DynamoDB id=79b6874d-064e-4d41-8498-b8bb68d73367
+INFO:root:Stored widget in DynamoDB id=f486f5fa-5c8c-417f-9e17-dc052264595e
+INFO:root:Stored widget in DynamoDB id=d7b18a4b-273c-4276-ba2c-46149c7c7fe7
+INFO:root:Stored widget in DynamoDB id=6e954a86-c877-48c1-bd4a-10376ea3e5c3
+INFO:root:Stored widget in DynamoDB id=d3c03c90-997e-4bad-b953-eed526dfdf15
+INFO:root:Stored widget in DynamoDB id=02f87fc9-f32b-4482-91ab-3afb4a8b9aab
+INFO:root:Stored widget in DynamoDB id=4ec1db51-b34b-4c43-9251-20ad618ca768
+INFO:root:Stored widget in DynamoDB id=a14cb37f-a70b-49fe-b4e3-07af77a5e870
+INFO:root:Stored widget in DynamoDB id=1d619ffa-f34b-4296-b873-d6d958d68c20
+INFO:root:Stored widget in DynamoDB id=b9025420-039a-4b39-9750-2b68b96d324f
+INFO:root:Stored widget in DynamoDB id=36c6165c-7cd8-4961-a84f-d38140595279
+INFO:root:Stored widget in DynamoDB id=6c139406-877f-420c-b972-58100739384f
+INFO:root:Stored widget in DynamoDB id=83b74f02-350b-464c-8794-a474f8654d49
+INFO:root:Stored widget in DynamoDB id=3c0ac6ab-7ede-409c-b258-687ca3e50bbf
+INFO:root:Stored widget in DynamoDB id=c718d2ef-15d0-45ba-a33e-c8f9b5ea74e0
+INFO:root:Stored widget in DynamoDB id=d86899b1-1493-4f8d-9487-cfb3aaa40324
+INFO:root:Stored widget in DynamoDB id=a6d11db1-7251-4dbf-9776-2b575b873557
+INFO:root:Stored widget in DynamoDB id=20184958-c3b4-4343-85ed-e2ca42f76aff
+INFO:root:Stored widget in DynamoDB id=9cc0fa1c-f13e-441e-8dc6-22c964a749c1
+INFO:root:Stored widget in DynamoDB id=2f574ade-19fa-40ce-a509-463f679ee311
+INFO:root:Stored widget in DynamoDB id=fdedf864-0e7e-46ee-9f4a-b38c9610face
+INFO:root:Stored widget in DynamoDB id=e4cda7dd-0956-4017-a918-87ae77c2b555
+INFO:root:Stored widget in DynamoDB id=2bd31d4f-78b5-470b-b43f-26282cb30c4b
 INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Consumer started
+INFO:root:Skipping widget e4cda7dd-0956-4017-a918-87ae77c2b555 of type: update
 INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Consumer started
+INFO:root:Stored widget in DynamoDB id=73d8f569-87a1-4be2-a597-95604cf4ea43
+INFO:root:Skipping widget 2bd31d4f-78b5-470b-b43f-26282cb30c4b of type: update
+INFO:root:Stored widget in DynamoDB id=352e9a58-1c46-417a-9c25-d18e572ceb0b
+INFO:root:Skipping widget 1d619ffa-f34b-4296-b873-d6d958d68c20 of type: update
+INFO:root:Stored widget in DynamoDB id=988ee544-0914-4feb-9b9f-43a6beab25dc
+INFO:root:Skipping widget 79b6874d-064e-4d41-8498-b8bb68d73367 of type: update
+INFO:root:Stored widget in DynamoDB id=246650be-4b3d-444c-afe2-23e3d0ec807e
+INFO:root:Skipping widget 00c1fe58-c551-4763-9c38-cd01caf4a9ce of type: delete
+INFO:root:Skipping widget 2bd31d4f-78b5-470b-b43f-26282cb30c4b of type: update
+INFO:root:Stored widget in DynamoDB id=1c4d2105-6c85-459d-a950-e3f8027bfefa
+INFO:root:Stored widget in DynamoDB id=d76d9557-ebe4-4e77-95b5-1134df0741a7
+INFO:root:Stored widget in DynamoDB id=c385914b-3988-4502-9e43-75e5a47b87c3
+INFO:root:Skipping widget 4ec1db51-b34b-4c43-9251-20ad618ca768 of type: update
+INFO:root:Stored widget in DynamoDB id=038e5377-e432-4293-9d29-23aab796b27b
+INFO:root:Stored widget in DynamoDB id=035b13a6-6426-4dc3-993e-d97a70c57e90
+INFO:root:Skipping widget 73d8f569-87a1-4be2-a597-95604cf4ea43 of type: update
+INFO:root:Stored widget in DynamoDB id=68973ed1-be08-405f-9f2a-d7be1fe025b6
+INFO:root:Skipping widget 02f87fc9-f32b-4482-91ab-3afb4a8b9aab of type: update
+INFO:root:Stored widget in DynamoDB id=1c8440cf-2ef3-4915-ad43-f7c089f84a3c
+INFO:root:Stored widget in DynamoDB id=fe0fbc97-06cd-4b66-a228-287ae36c0051
+INFO:root:Stored widget in DynamoDB id=0de36bf8-8b4d-40df-bc0a-a675ac203b0c
+INFO:root:Stored widget in DynamoDB id=3537b5fc-b104-4cbf-aff1-b330c98ce023
+INFO:root:Skipping widget 2bd31d4f-78b5-470b-b43f-26282cb30c4b of type: update
+INFO:root:Skipping widget d76d9557-ebe4-4e77-95b5-1134df0741a7 of type: update
+INFO:root:Skipping widget 8aecc353-a0e2-4ce8-ab98-3e833878994d of type: update
+INFO:root:Skipping widget 6d1449f8-bc47-4572-ba4a-efca5c4fd7f0 of type: update
+INFO:root:Stored widget in DynamoDB id=109acba5-f918-4f08-9a17-6f6b222fbaf7
+INFO:root:Stored widget in DynamoDB id=9aecaf07-97f6-40dd-af70-b484bcd06656
+INFO:root:Stored widget in DynamoDB id=e91e554d-c4ec-415f-986a-a3c9e7017ccd
+INFO:root:Stored widget in DynamoDB id=761e0435-91cc-4c45-8594-2a572cb2dcc8
+INFO:root:Skipping widget 0de36bf8-8b4d-40df-bc0a-a675ac203b0c of type: update
+INFO:root:Skipping widget 9cc0fa1c-f13e-441e-8dc6-22c964a749c1 of type: delete
+INFO:root:Skipping widget 6e954a86-c877-48c1-bd4a-10376ea3e5c3 of type: update
+INFO:root:Skipping widget 024b0125-50ed-40a7-8b13-a345f16478a5 of type: update
+INFO:root:Skipping widget bf3d3cf7-7376-4536-8f36-4f4fdb355d89 of type: update
+INFO:root:Stored widget in DynamoDB id=77fd0860-2a7f-4d5e-9b1a-dfca2305f572
+INFO:root:Skipping widget 6d1449f8-bc47-4572-ba4a-efca5c4fd7f0 of type: update
+INFO:root:Skipping widget 9462ef1c-7ea1-433e-b6ce-21f4da3ca77c of type: delete
+INFO:root:Stored widget in DynamoDB id=82794bc1-7632-43ad-93d8-908f106af985
+INFO:root:Skipping widget 8aecc353-a0e2-4ce8-ab98-3e833878994d of type: update
+INFO:root:Skipping widget 1d619ffa-f34b-4296-b873-d6d958d68c20 of type: update
+INFO:root:Stored widget in DynamoDB id=adcb631b-c0f3-4c57-bf2d-14bcff3f9094
+INFO:root:Skipping widget f486f5fa-5c8c-417f-9e17-dc052264595e of type: update
+INFO:root:Stored widget in DynamoDB id=5bd025fd-4a90-4665-bf62-97394affd76a
+INFO:root:Skipping widget b9025420-039a-4b39-9750-2b68b96d324f of type: delete
+INFO:root:Skipping widget e4cda7dd-0956-4017-a918-87ae77c2b555 of type: delete
+INFO:root:Skipping widget 36c6165c-7cd8-4961-a84f-d38140595279 of type: update
+INFO:root:Skipping widget 109acba5-f918-4f08-9a17-6f6b222fbaf7 of type: update
+INFO:root:Skipping widget 1d619ffa-f34b-4296-b873-d6d958d68c20 of type: delete
+INFO:root:Stored widget in DynamoDB id=e517d28d-8644-4eaf-8e2f-e94d3b71e381
+INFO:root:Skipping widget 73d8f569-87a1-4be2-a597-95604cf4ea43 of type: update
+INFO:root:Stored widget in DynamoDB id=5fa33ed3-aa05-4444-9e70-5b0bf47470e5
+INFO:root:Stored widget in DynamoDB id=a45e495b-46c5-481b-8d89-631ad00f9221
+INFO:root:Stored widget in DynamoDB id=30f791f6-cccf-4cdb-861e-f6429f60752f
+INFO:root:Skipping widget 46a4004d-f679-4e98-a1b8-4ea235f1c2b4 of type: update
+INFO:root:Stored widget in DynamoDB id=3a90f20c-3163-42c0-85b4-e565761547bd
+INFO:root:Stored widget in DynamoDB id=49f62a3a-fc53-4621-98e8-54549ff4d206
+INFO:root:Skipping widget f11fbbf5-389b-4ae2-8876-d825d2ae55e3 of type: update
+INFO:root:Skipping widget 988ee544-0914-4feb-9b9f-43a6beab25dc of type: update
+INFO:root:Stored widget in DynamoDB id=2993a3ac-a203-4fc4-b799-f35359a8498d
+INFO:root:Stored widget in DynamoDB id=6772e388-3926-4c3b-b930-f19ffdb873bd
+INFO:root:Stored widget in DynamoDB id=a8d908ef-c78d-4837-8da2-c8ba6691b62f
+INFO:root:Stored widget in DynamoDB id=a2f42c54-5937-4dc1-b451-190e65d44a1e
+INFO:root:Skipping widget db314833-0787-4d88-b888-1dfa5c30c6d0 of type: delete
+INFO:root:Stored widget in DynamoDB id=5a54b5af-0d7a-48cc-9065-7953493881c8
+INFO:root:Stored widget in DynamoDB id=f06dda37-8700-49a8-90ab-c33e00cdf934
+INFO:root:Skipping widget 246650be-4b3d-444c-afe2-23e3d0ec807e of type: update
+INFO:root:Stored widget in DynamoDB id=76353a1e-d817-45ad-ab64-bafab4065d4f
+INFO:root:Skipping widget 20184958-c3b4-4343-85ed-e2ca42f76aff of type: update
+INFO:root:Stored widget in DynamoDB id=8b85f4e9-10a7-4eb6-a90d-96dda5b6e6ca
+INFO:root:Skipping widget a45e495b-46c5-481b-8d89-631ad00f9221 of type: delete
+INFO:root:Skipping widget 79b6874d-064e-4d41-8498-b8bb68d73367 of type: update
+INFO:root:Skipping widget f486f5fa-5c8c-417f-9e17-dc052264595e of type: update
+INFO:root:Stored widget in DynamoDB id=75394441-e34e-4316-b804-fa9a5e3c3feb
+INFO:root:Skipping widget 6e954a86-c877-48c1-bd4a-10376ea3e5c3 of type: update
+INFO:root:Stored widget in DynamoDB id=d4f96932-2db5-44e4-80b5-2437e094c959
+INFO:root:Skipping widget 6772e388-3926-4c3b-b930-f19ffdb873bd of type: update
+INFO:root:Skipping widget f7c3b2db-6321-4c98-898d-3c7cb41bb9a2 of type: update
+INFO:root:Stored widget in DynamoDB id=f20f95a6-8930-4bef-9399-c95e789d3726
+INFO:root:Skipping widget f486f5fa-5c8c-417f-9e17-dc052264595e of type: update
+INFO:root:Stored widget in DynamoDB id=96e28fcf-394f-4119-a2bd-74e898398923
+INFO:root:Stored widget in DynamoDB id=e34d52f8-a90c-4705-9ac8-5d946ae3dd07
+INFO:root:Skipping widget fe0fbc97-06cd-4b66-a228-287ae36c0051 of type: delete
+INFO:root:Stored widget in DynamoDB id=36bf68b2-c481-44a1-82a4-9191978400a2
+INFO:root:Skipping widget 79b6874d-064e-4d41-8498-b8bb68d73367 of type: update
+INFO:root:Skipping widget 73d8f569-87a1-4be2-a597-95604cf4ea43 of type: update
+INFO:root:Skipping widget 4ec1db51-b34b-4c43-9251-20ad618ca768 of type: delete
+INFO:root:Stored widget in DynamoDB id=a7b38121-413f-4e3f-9b7d-0248a8281bcf
+INFO:root:Stored widget in DynamoDB id=4badea20-89d7-41f4-a33a-138736f8b84e
+INFO:root:Skipping widget 988ee544-0914-4feb-9b9f-43a6beab25dc of type: update
+INFO:root:Stored widget in DynamoDB id=6c343cee-fab0-420f-ac29-7b3edcf0a2d5
+INFO:root:Skipping widget 6e954a86-c877-48c1-bd4a-10376ea3e5c3 of type: update
+INFO:root:Stored widget in DynamoDB id=d4194712-4697-4401-8814-d53117c7e957
+INFO:root:Skipping widget 0de36bf8-8b4d-40df-bc0a-a675ac203b0c of type: delete
+INFO:root:Skipping widget fdedf864-0e7e-46ee-9f4a-b38c9610face of type: update
+INFO:root:Stored widget in DynamoDB id=534b384d-ff90-458b-9715-66fdd69179e8
+INFO:root:Skipping widget d4194712-4697-4401-8814-d53117c7e957 of type: update
+INFO:root:Skipping widget 7f49f53c-a0cd-49ba-8547-9437e6555b58 of type: delete
+INFO:root:Stored widget in DynamoDB id=a3f26547-30c2-4ad2-b6bb-251865cfb87b
+INFO:root:Skipping widget a8d908ef-c78d-4837-8da2-c8ba6691b62f of type: update
+INFO:root:Stored widget in DynamoDB id=1847aac2-c90e-4956-ab8d-f6d308ea5638
+INFO:root:Stored widget in DynamoDB id=721346e1-5476-4b38-9131-23107e2938e7
+INFO:root:Stored widget in DynamoDB id=cc809f01-f9e0-4a6b-a43b-a8f88c0fa141
+INFO:root:Stored widget in DynamoDB id=cd40cb5c-65cd-4695-a330-bb85978c06a1
+INFO:root:Stored widget in DynamoDB id=2f189eb9-0c8a-467b-8fc7-201652e828c9
+INFO:root:Skipping widget cc809f01-f9e0-4a6b-a43b-a8f88c0fa141 of type: update
+INFO:root:Stored widget in DynamoDB id=53289aa6-26c7-4bb2-b8e3-1335725bbc75
+INFO:root:Stored widget in DynamoDB id=81e8d8b8-f662-4250-a5bb-d37c85cbe54d
+INFO:root:Stored widget in DynamoDB id=bda1e86b-8388-4eb0-8e04-0f2f1a8dd53b
+INFO:root:Stored widget in DynamoDB id=27e5d7e4-05fc-485e-b73e-7d119b61076b
+INFO:root:Skipping widget bf3d3cf7-7376-4536-8f36-4f4fdb355d89 of type: update
+INFO:root:Skipping widget 4badea20-89d7-41f4-a33a-138736f8b84e of type: update
+INFO:root:Stored widget in DynamoDB id=bbace414-9ccc-4650-965f-fe2cdb153248
+INFO:root:Stored widget in DynamoDB id=7cdbccd1-bc24-429e-84e3-2a0d9dab0557
+INFO:root:Skipping widget 109acba5-f918-4f08-9a17-6f6b222fbaf7 of type: update
+INFO:root:Skipping widget 3c0ac6ab-7ede-409c-b258-687ca3e50bbf of type: update
+INFO:root:Skipping widget e517d28d-8644-4eaf-8e2f-e94d3b71e381 of type: update
+INFO:root:Skipping widget 8aecc353-a0e2-4ce8-ab98-3e833878994d of type: update
+INFO:root:Skipping widget f11fbbf5-389b-4ae2-8876-d825d2ae55e3 of type: delete
+INFO:root:Skipping widget 761e0435-91cc-4c45-8594-2a572cb2dcc8 of type: update
+INFO:root:Stored widget in DynamoDB id=de81afcd-59ef-43da-b79e-9af591cc3391
+INFO:root:Stored widget in DynamoDB id=03c5cddc-d8e2-4b77-9ab3-1ee9a20901c9
+INFO:root:Stored widget in DynamoDB id=171e0659-2347-45a4-abed-7646cd3ac93d
+INFO:root:Stored widget in DynamoDB id=1654d6f3-9700-444d-8ef5-336814745751
+INFO:root:Skipping widget 109acba5-f918-4f08-9a17-6f6b222fbaf7 of type: update
+INFO:root:Stored widget in DynamoDB id=bcc6b1e3-a837-4a3c-ab6c-702056776390
+INFO:root:Skipping widget d7b18a4b-273c-4276-ba2c-46149c7c7fe7 of type: delete
+INFO:root:Skipping widget e91e554d-c4ec-415f-986a-a3c9e7017ccd of type: update
+INFO:root:Skipping widget a3f26547-30c2-4ad2-b6bb-251865cfb87b of type: update
+INFO:root:Stored widget in DynamoDB id=a2326da9-e815-4fa6-a2e1-61d4730c87b9
+INFO:root:Skipping widget bd51e34f-f11f-42d5-8167-bde20482ed68 of type: update
+INFO:root:Skipping widget 73d8f569-87a1-4be2-a597-95604cf4ea43 of type: update
+INFO:root:Stored widget in DynamoDB id=6a6514b4-8580-46bc-9a8a-cc517599a6f4
+INFO:root:Stored widget in DynamoDB id=3e056b6a-43f5-4436-b766-2d5ecfb91b10
+INFO:root:Stored widget in DynamoDB id=50b6e844-f3b0-49b0-bbbf-754ec654f2aa
+INFO:root:Stored widget in DynamoDB id=ad15e309-6b55-49e3-b40f-d67afee9243d
+INFO:root:Stored widget in DynamoDB id=c9b5db27-031d-41cf-a347-67374c26ed6f
+INFO:root:Stored widget in DynamoDB id=0219e0ce-5ba8-4985-a430-eec703d1a4bc
+INFO:root:Skipping widget 77fd0860-2a7f-4d5e-9b1a-dfca2305f572 of type: update
+INFO:root:Skipping widget f3f9b9a6-08d5-44f4-b010-ec26e563dc4f of type: update
+INFO:root:Stored widget in DynamoDB id=a9dd1f3b-f63d-4e8d-9e7f-b6c082853ecb
+INFO:root:Stored widget in DynamoDB id=922aae9e-0ef7-4694-9af5-9906b888483c
+INFO:root:Stored widget in DynamoDB id=745e8a6f-9f1e-41ff-b5aa-8d31edbc9912
+INFO:root:Stored widget in DynamoDB id=7464425f-8dce-4191-a6e3-6bf129a059cf
+INFO:root:Stored widget in DynamoDB id=2ea0e6cd-1c0a-42b4-93b6-34a14af8c4f1
+INFO:root:Skipping widget f7c3b2db-6321-4c98-898d-3c7cb41bb9a2 of type: update
+INFO:root:Stored widget in DynamoDB id=f70ade48-244f-4244-95bc-deeebfac81a1
+INFO:root:Stored widget in DynamoDB id=d1dc6a4b-5e85-42d8-95e6-d4c76fc6df2c
+INFO:root:Skipping widget 2f189eb9-0c8a-467b-8fc7-201652e828c9 of type: update
+INFO:root:Skipping widget a2f42c54-5937-4dc1-b451-190e65d44a1e of type: update
+INFO:root:Stored widget in DynamoDB id=31845bf3-f49e-431f-b601-3e2a84e7f381
+INFO:root:Stored widget in DynamoDB id=a52779ef-80c5-432c-a7be-9d57a5b36ba5
+INFO:root:Stored widget in DynamoDB id=f689f39a-7e80-4ed9-b012-a3ee99ad5113
+INFO:root:Skipping widget 171e0659-2347-45a4-abed-7646cd3ac93d of type: delete
+INFO:root:Skipping widget 6c139406-877f-420c-b972-58100739384f of type: update
+INFO:root:Skipping widget bcc6b1e3-a837-4a3c-ab6c-702056776390 of type: update
+INFO:root:Consumer stopped by user
 INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Consumer started
+INFO:root:Skipping widget 4badea20-89d7-41f4-a33a-138736f8b84e of type: update
+INFO:root:Skipping widget 038e5377-e432-4293-9d29-23aab796b27b of type: update
+INFO:root:Skipping widget 96e28fcf-394f-4119-a2bd-74e898398923 of type: update
+INFO:root:Skipping widget 81e8d8b8-f662-4250-a5bb-d37c85cbe54d of type: update
+INFO:root:Skipping widget 6520997e-6294-40ae-9305-2d12558dcb40 of type: delete
+INFO:root:Skipping widget 20143096-7a89-4285-bf62-6c0aee89c381 of type: delete
+INFO:root:Skipping widget bb24d924-ae9c-4283-97c8-a59aac1b796f of type: update
+INFO:root:Skipping widget dad79e7f-5038-4ea8-91e2-8640e682b225 of type: update
+INFO:root:Skipping widget 4da452f0-a248-4fb9-bfb9-18d53531e737 of type: update
+INFO:root:Skipping widget 9371abaa-e463-415d-a1c7-4a3139477817 of type: update
+INFO:root:Skipping widget 1d515b93-d046-4cb0-8c8d-c316383bdb94 of type: update
+INFO:root:Skipping widget b47deea0-9c1b-4841-8a2a-b17a175e7efb of type: update
+INFO:root:Skipping widget 9c0a89e4-a6c7-4d53-89d5-9003463a57f6 of type: update
+INFO:root:Skipping widget 91e6e65f-cd3d-4d84-8287-cfb9cf315e19 of type: update
+INFO:root:Skipping widget 91e6e65f-cd3d-4d84-8287-cfb9cf315e19 of type: delete
+INFO:root:Skipping widget 5311dfe3-a4f0-48c6-8a2b-8be02319ffe0 of type: update
+INFO:root:Skipping widget 41fbacc8-2f23-4881-b886-c1110b741fa8 of type: update
+INFO:root:Skipping widget af8681df-a3bc-4c47-8b8f-6e9c446de702 of type: update
+INFO:root:Skipping widget 8c7e599f-652e-42ba-9dff-041029b5ed00 of type: update
+INFO:root:Skipping widget 55a129ff-3125-4ac0-9949-bc370f085052 of type: update
+INFO:root:Skipping widget 972b24bd-c34c-46ea-b9fd-5412aa3ec556 of type: update
+INFO:root:Skipping widget c0860fdc-2961-476b-ba04-0ab6eca6198d of type: delete
+INFO:root:Skipping widget 9c0a89e4-a6c7-4d53-89d5-9003463a57f6 of type: update
+INFO:root:Skipping widget c12441fe-9b6b-4173-a990-57a433834bc1 of type: update
+INFO:root:Skipping widget bb24d924-ae9c-4283-97c8-a59aac1b796f of type: update
+INFO:root:Skipping widget da573be8-f561-41aa-9c3f-89438c3d8412 of type: update
+INFO:root:Skipping widget e0ef1e07-221b-449e-9cd0-ca04455bd618 of type: update
+INFO:root:Skipping widget 55a389b9-42de-4c84-bb02-05811eb909bb of type: delete
+INFO:root:Skipping widget fff13cbc-dc08-49aa-90f8-fda27e26031e of type: update
+INFO:root:Skipping widget 7adcd96f-a4b9-4490-8c50-d10b17c4e8c6 of type: update
+INFO:root:Skipping widget 6b3544ea-f6b1-475e-97e0-6af336333d84 of type: update
+INFO:root:Skipping widget 7e52e49c-39d0-4f57-a237-ec2c0d18b6c3 of type: update
+INFO:root:Skipping widget 0da65a57-e463-4ef2-abe9-5c6689565395 of type: update
+INFO:root:Skipping widget 159f34ba-4c07-4e40-8ffd-fa7f0faabb9f of type: update
+INFO:root:Skipping widget 6d8ab488-f0c6-4873-be28-bc581696bcc3 of type: update
+INFO:root:Skipping widget 47941bb9-0815-4d53-a8af-57bf9b5083ba of type: update
+INFO:root:Skipping widget 5cc92da3-6d0e-4abe-88a3-41c38dd1cce0 of type: update
+INFO:root:Skipping widget 256b507f-2d1e-452f-8e4a-8392dfcf2b88 of type: delete
+INFO:root:Skipping widget 494fd7aa-b353-4990-af12-43df5ce6d2b6 of type: update
+INFO:root:Skipping widget 49c1213c-8257-4b84-b339-6864ce3f6025 of type: update
+INFO:root:Skipping widget 475a1504-18d4-4464-8288-df5c643d3fdc of type: delete
+INFO:root:Skipping widget 407cbdc5-8b66-4d87-b52e-221d93c0d04d of type: update
+INFO:root:Skipping widget acc20048-99f7-4a8f-b94e-777a2395fc7c of type: delete
+INFO:root:Skipping widget d4824855-f45f-4668-b2c2-df2d0f4e4a77 of type: update
+INFO:root:Skipping widget 41fbacc8-2f23-4881-b886-c1110b741fa8 of type: delete
+INFO:root:Skipping widget 9e65bebb-c825-4a58-8d88-553bd8b8b9a8 of type: update
+INFO:root:Skipping widget ddfc9e98-a27e-47b8-9e3f-f272ad164960 of type: update
+INFO:root:Skipping widget 9371abaa-e463-415d-a1c7-4a3139477817 of type: update
+INFO:root:Skipping widget b47deea0-9c1b-4841-8a2a-b17a175e7efb of type: delete
+INFO:root:Skipping widget 59f614de-7756-42f9-90e3-199cfbc90175 of type: update
+INFO:root:Skipping widget bb24d924-ae9c-4283-97c8-a59aac1b796f of type: update
+INFO:root:Skipping widget c12441fe-9b6b-4173-a990-57a433834bc1 of type: update
+INFO:root:Skipping widget 972b24bd-c34c-46ea-b9fd-5412aa3ec556 of type: update
+INFO:root:Skipping widget 6a0a92a3-0074-411f-9f1f-32140a001723 of type: delete
+INFO:root:Skipping widget e95bc2b7-e972-4d54-93d3-48a3abcf2910 of type: update
+INFO:root:Skipping widget 3297020e-b3d3-4997-a020-3b6ecf6bb2af of type: update
+INFO:root:Skipping widget 7de69b87-ea0c-4321-a478-9be5c329dfe9 of type: update
+INFO:root:Skipping widget 95058af0-35c1-4158-b2cf-d2d422a3f87a of type: update
+INFO:root:Skipping widget 6d8ab488-f0c6-4873-be28-bc581696bcc3 of type: delete
+INFO:root:Skipping widget 579f9354-cd1a-4581-9075-b2548405a107 of type: update
+INFO:root:Skipping widget 242ed823-4a27-45a6-b96a-1b409b32ac7e of type: update
+INFO:root:Skipping widget b33e4be6-28b0-4d76-a69c-1aae72bfad8c of type: update
+INFO:root:Skipping widget b33e4be6-28b0-4d76-a69c-1aae72bfad8c of type: update
+INFO:root:Skipping widget e75b5968-0957-43ab-8378-8e052b5a302d of type: update
+INFO:root:	Consumer stopped by user
 INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Consumer started
+INFO:root:Stored widget id=68e05f0b-450f-4296-8470-a81cb4c48a34 in S3 bucket widgets/mary-matthews/68e05f0b-450f-4296-8470-a81cb4c48a34.json
+INFO:root:Stored widget id=b04121ed-83db-4eb4-95aa-61eb8b132cc5 in S3 bucket widgets/sue-smith/b04121ed-83db-4eb4-95aa-61eb8b132cc5.json
+INFO:root:Stored widget id=73f196b1-c779-4e58-865d-2014e76944c2 in S3 bucket widgets/mary-matthews/73f196b1-c779-4e58-865d-2014e76944c2.json
+INFO:root:Stored widget id=125ad052-bbd5-43bf-9c1d-a3d3cde8fe86 in S3 bucket widgets/sue-smith/125ad052-bbd5-43bf-9c1d-a3d3cde8fe86.json
+INFO:root:Stored widget id=fe3a9ca8-711d-411f-bbaa-1db2b4ea9e4b in S3 bucket widgets/sue-smith/fe3a9ca8-711d-411f-bbaa-1db2b4ea9e4b.json
+INFO:root:Stored widget id=03ffa195-ab56-4784-a458-d4c6e96b5eb8 in S3 bucket widgets/henry-hops/03ffa195-ab56-4784-a458-d4c6e96b5eb8.json
+INFO:root:Stored widget id=18007df8-be0c-4d5d-ba0b-cc6a669fc8bb in S3 bucket widgets/sue-smith/18007df8-be0c-4d5d-ba0b-cc6a669fc8bb.json
+INFO:root:Stored widget id=5f6d1b56-cf23-41a9-9cf6-3d18d08b3ffb in S3 bucket widgets/mary-matthews/5f6d1b56-cf23-41a9-9cf6-3d18d08b3ffb.json
+INFO:root:Stored widget id=12072d70-4ed5-49d1-a925-84c7c00b66b4 in S3 bucket widgets/mary-matthews/12072d70-4ed5-49d1-a925-84c7c00b66b4.json
+INFO:root:Stored widget id=c28dd0f4-e81f-4a08-9652-1be17a9840be in S3 bucket widgets/henry-hops/c28dd0f4-e81f-4a08-9652-1be17a9840be.json
+INFO:root:Stored widget id=7e888bd3-1d1a-4791-a3cd-867e2e115648 in S3 bucket widgets/mary-matthews/7e888bd3-1d1a-4791-a3cd-867e2e115648.json
+INFO:root:Stored widget id=1328e4ef-adc8-4741-8098-279a469953e8 in S3 bucket widgets/sue-smith/1328e4ef-adc8-4741-8098-279a469953e8.json
+INFO:root:Stored widget id=28fa4b8d-05b9-4adb-bb0d-b980984c3f2f in S3 bucket widgets/sue-smith/28fa4b8d-05b9-4adb-bb0d-b980984c3f2f.json
+INFO:root:Stored widget id=b7459873-0f6e-4a80-ba75-0a26b01d536b in S3 bucket widgets/sue-smith/b7459873-0f6e-4a80-ba75-0a26b01d536b.json
+INFO:root:Stored widget id=daab1976-c16f-4b8d-ad78-548b4d94f897 in S3 bucket widgets/john-jones/daab1976-c16f-4b8d-ad78-548b4d94f897.json
+INFO:root:Stored widget id=f796bfc6-55fd-4e26-9007-d434264fadfd in S3 bucket widgets/sue-smith/f796bfc6-55fd-4e26-9007-d434264fadfd.json
+INFO:root:Stored widget id=40a10272-0be9-4989-9614-914c1233dad0 in S3 bucket widgets/john-jones/40a10272-0be9-4989-9614-914c1233dad0.json
+INFO:root:Stored widget id=7d9ab857-0fdc-4fb9-8144-732c536d7d78 in S3 bucket widgets/mary-matthews/7d9ab857-0fdc-4fb9-8144-732c536d7d78.json
+INFO:root:Stored widget id=9f07e1e4-fc54-4c4e-8bab-acfbf275e791 in S3 bucket widgets/mary-matthews/9f07e1e4-fc54-4c4e-8bab-acfbf275e791.json
+INFO:root:Stored widget id=3bb51316-f8b8-4d88-a356-31e887585229 in S3 bucket widgets/mary-matthews/3bb51316-f8b8-4d88-a356-31e887585229.json
+INFO:root:Stored widget id=fe13485f-f9fb-4df2-8c5e-49714ebb4d7a in S3 bucket widgets/sue-smith/fe13485f-f9fb-4df2-8c5e-49714ebb4d7a.json
+INFO:root:Stored widget id=71698b44-5e13-45db-8e5e-717bfaaca54b in S3 bucket widgets/henry-hops/71698b44-5e13-45db-8e5e-717bfaaca54b.json
+INFO:root:Stored widget id=8731b3c6-843e-4771-b730-f733c098a6bd in S3 bucket widgets/sue-smith/8731b3c6-843e-4771-b730-f733c098a6bd.json
+INFO:root:Stored widget id=eca9c4da-8252-4eb1-b26f-f3fc494be955 in S3 bucket widgets/henry-hops/eca9c4da-8252-4eb1-b26f-f3fc494be955.json
+INFO:root:Stored widget id=c9054c25-4934-4303-bc6a-2ce5d2ccca95 in S3 bucket widgets/john-jones/c9054c25-4934-4303-bc6a-2ce5d2ccca95.json
+INFO:root:Stored widget id=33f56539-63b5-4483-98a4-8d41cf3ebf64 in S3 bucket widgets/sue-smith/33f56539-63b5-4483-98a4-8d41cf3ebf64.json
+INFO:root:Stored widget id=eb60d2ec-f586-492f-a703-6f5a31729332 in S3 bucket widgets/john-jones/eb60d2ec-f586-492f-a703-6f5a31729332.json
+INFO:root:Stored widget id=d92e99b1-d4b9-43dd-b29b-b39b49b9d22b in S3 bucket widgets/sue-smith/d92e99b1-d4b9-43dd-b29b-b39b49b9d22b.json
+INFO:root:Stored widget id=13430998-46c0-4256-8660-5e83f9b607b7 in S3 bucket widgets/john-jones/13430998-46c0-4256-8660-5e83f9b607b7.json
+INFO:root:Stored widget id=4c01a77a-03e2-480c-b264-59d30246756f in S3 bucket widgets/henry-hops/4c01a77a-03e2-480c-b264-59d30246756f.json
+INFO:root:Stored widget id=d5d4c045-b44b-4fba-bf90-b582f8482c93 in S3 bucket widgets/sue-smith/d5d4c045-b44b-4fba-bf90-b582f8482c93.json
+INFO:root:Stored widget id=4007af97-8358-4b6d-965f-9caf231df76f in S3 bucket widgets/john-jones/4007af97-8358-4b6d-965f-9caf231df76f.json
+INFO:root:Stored widget id=480f095e-810e-4f01-918d-a43f89168857 in S3 bucket widgets/mary-matthews/480f095e-810e-4f01-918d-a43f89168857.json
+INFO:root:Stored widget id=4af55328-d557-440e-9a00-10ad496869e1 in S3 bucket widgets/sue-smith/4af55328-d557-440e-9a00-10ad496869e1.json
+INFO:root:Stored widget id=e901c8ef-8732-42b4-b4ac-d2188555ed1f in S3 bucket widgets/mary-matthews/e901c8ef-8732-42b4-b4ac-d2188555ed1f.json
+INFO:root:Stored widget id=2e2c95e8-c6ae-4329-b4ee-4392b211fd3a in S3 bucket widgets/mary-matthews/2e2c95e8-c6ae-4329-b4ee-4392b211fd3a.json
+INFO:root:Stored widget id=8d14cd9f-4e93-4cd8-983e-f7cc1a362e77 in S3 bucket widgets/sue-smith/8d14cd9f-4e93-4cd8-983e-f7cc1a362e77.json
+INFO:root:Stored widget id=44799133-0662-4054-94a0-85bf855123e4 in S3 bucket widgets/john-jones/44799133-0662-4054-94a0-85bf855123e4.json
+INFO:root:Stored widget id=c5fd3d58-a15a-42ba-a848-3db3e2a14a41 in S3 bucket widgets/john-jones/c5fd3d58-a15a-42ba-a848-3db3e2a14a41.json
+INFO:root:Stored widget id=65fa3a33-a7c5-43ff-8ab7-6be0c1c41d9b in S3 bucket widgets/john-jones/65fa3a33-a7c5-43ff-8ab7-6be0c1c41d9b.json
+INFO:root:Stored widget id=507b30d0-1984-466f-8197-f25812627f08 in S3 bucket widgets/henry-hops/507b30d0-1984-466f-8197-f25812627f08.json
+INFO:root:Stored widget id=70baa4fa-a196-4212-92f2-210c4e640c12 in S3 bucket widgets/henry-hops/70baa4fa-a196-4212-92f2-210c4e640c12.json
+INFO:root:Stored widget id=395fb844-3860-46f0-8d50-05cb2cd1343d in S3 bucket widgets/john-jones/395fb844-3860-46f0-8d50-05cb2cd1343d.json
+INFO:root:Skipping widget 4007af97-8358-4b6d-965f-9caf231df76f of type: update
+INFO:root:Stored widget id=66ee3a66-a78a-453e-94f4-f8e96f06259d in S3 bucket widgets/john-jones/66ee3a66-a78a-453e-94f4-f8e96f06259d.json
+INFO:root:Skipping widget d92e99b1-d4b9-43dd-b29b-b39b49b9d22b of type: update
+INFO:root:Stored widget id=ff1f63b1-366d-4204-99e4-8bf7fec337a7 in S3 bucket widgets/john-jones/ff1f63b1-366d-4204-99e4-8bf7fec337a7.json
+INFO:root:Stored widget id=4b7d2fd3-8150-4712-b8d2-27aed790f3c4 in S3 bucket widgets/mary-matthews/4b7d2fd3-8150-4712-b8d2-27aed790f3c4.json
+INFO:root:Stored widget id=e660953f-b0ef-4594-82c3-49b5ccb80314 in S3 bucket widgets/mary-matthews/e660953f-b0ef-4594-82c3-49b5ccb80314.json
+INFO:root:Stored widget id=e61fb04a-6fd1-4fb3-9409-0725ea6f7b37 in S3 bucket widgets/sue-smith/e61fb04a-6fd1-4fb3-9409-0725ea6f7b37.json
+INFO:root:Skipping widget 65fa3a33-a7c5-43ff-8ab7-6be0c1c41d9b of type: update
+INFO:root:Skipping widget 71698b44-5e13-45db-8e5e-717bfaaca54b of type: update
+INFO:root:Skipping widget 13430998-46c0-4256-8660-5e83f9b607b7 of type: update
+INFO:root:Stored widget id=d87a824e-43be-4a96-8056-1cea11501550 in S3 bucket widgets/mary-matthews/d87a824e-43be-4a96-8056-1cea11501550.json
+INFO:root:Stored widget id=eab58151-2e9b-4f40-a9a2-c9dd6d232c67 in S3 bucket widgets/mary-matthews/eab58151-2e9b-4f40-a9a2-c9dd6d232c67.json
+INFO:root:Stored widget id=feafa7b0-d5ce-437b-8ba6-ad13e4e1bec4 in S3 bucket widgets/mary-matthews/feafa7b0-d5ce-437b-8ba6-ad13e4e1bec4.json
+INFO:root:Skipping widget 4af55328-d557-440e-9a00-10ad496869e1 of type: update
+INFO:root:Skipping widget 8d14cd9f-4e93-4cd8-983e-f7cc1a362e77 of type: update
+INFO:root:Skipping widget 1328e4ef-adc8-4741-8098-279a469953e8 of type: update
+INFO:root:Stored widget id=147888e1-482a-42e2-8e61-fd58b9566c51 in S3 bucket widgets/john-jones/147888e1-482a-42e2-8e61-fd58b9566c51.json
+INFO:root:Stored widget id=c3f37b21-167a-418f-acf1-0a08272bfcf9 in S3 bucket widgets/john-jones/c3f37b21-167a-418f-acf1-0a08272bfcf9.json
+INFO:root:Stored widget id=b43745dd-02e1-419a-a100-68f04194e84f in S3 bucket widgets/mary-matthews/b43745dd-02e1-419a-a100-68f04194e84f.json
+INFO:root:Stored widget id=7f193af8-a22a-4546-bdb5-351977d093d7 in S3 bucket widgets/sue-smith/7f193af8-a22a-4546-bdb5-351977d093d7.json
+INFO:root:Skipping widget 68e05f0b-450f-4296-8470-a81cb4c48a34 of type: delete
+INFO:root:Skipping widget 65fa3a33-a7c5-43ff-8ab7-6be0c1c41d9b of type: update
+INFO:root:Stored widget id=e054095a-d797-4f40-8ff5-4473ef1a42b7 in S3 bucket widgets/henry-hops/e054095a-d797-4f40-8ff5-4473ef1a42b7.json
+INFO:root:Skipping widget 8731b3c6-843e-4771-b730-f733c098a6bd of type: delete
+INFO:root:Stored widget id=403c1dd8-80d8-4f85-90d3-95d8bd7ad817 in S3 bucket widgets/sue-smith/403c1dd8-80d8-4f85-90d3-95d8bd7ad817.json
+INFO:root:Stored widget id=fbecb036-bd9a-4641-bd76-2140921208ef in S3 bucket widgets/mary-matthews/fbecb036-bd9a-4641-bd76-2140921208ef.json
+INFO:root:Stored widget id=259d6fd5-cd78-407b-89d9-3f41a0a3a8e6 in S3 bucket widgets/mary-matthews/259d6fd5-cd78-407b-89d9-3f41a0a3a8e6.json
+INFO:root:Skipping widget 18007df8-be0c-4d5d-ba0b-cc6a669fc8bb of type: update
+INFO:root:Stored widget id=8e73b565-3fc2-4f89-91a8-508cd13afb08 in S3 bucket widgets/henry-hops/8e73b565-3fc2-4f89-91a8-508cd13afb08.json
+INFO:root:Stored widget id=430f71d0-e238-4e31-9d48-dd6cca8ef6b8 in S3 bucket widgets/henry-hops/430f71d0-e238-4e31-9d48-dd6cca8ef6b8.json
+INFO:root:Skipping widget b43745dd-02e1-419a-a100-68f04194e84f of type: update
+INFO:root:Stored widget id=74f0935c-d45a-48fe-b223-754658d3a78b in S3 bucket widgets/john-jones/74f0935c-d45a-48fe-b223-754658d3a78b.json
+INFO:root:Stored widget id=23df9313-d3d7-42b6-9560-f87fa91a794b in S3 bucket widgets/henry-hops/23df9313-d3d7-42b6-9560-f87fa91a794b.json
+INFO:root:Skipping widget b43745dd-02e1-419a-a100-68f04194e84f of type: update
+INFO:root:Stored widget id=57c6a61d-f7ca-47b9-9eff-707238a6d1ad in S3 bucket widgets/henry-hops/57c6a61d-f7ca-47b9-9eff-707238a6d1ad.json
+INFO:root:Skipping widget 403c1dd8-80d8-4f85-90d3-95d8bd7ad817 of type: update
+INFO:root:Stored widget id=5838e3bd-34da-4c46-9046-60a376bc0752 in S3 bucket widgets/sue-smith/5838e3bd-34da-4c46-9046-60a376bc0752.json
+INFO:root:Skipping widget 33f56539-63b5-4483-98a4-8d41cf3ebf64 of type: update
+INFO:root:Skipping widget 33f56539-63b5-4483-98a4-8d41cf3ebf64 of type: delete
+INFO:root:Skipping widget 1328e4ef-adc8-4741-8098-279a469953e8 of type: update
+INFO:root:Skipping widget e901c8ef-8732-42b4-b4ac-d2188555ed1f of type: update
+INFO:root:Stored widget id=475008eb-e289-46d7-a216-1699c9a0a5b8 in S3 bucket widgets/sue-smith/475008eb-e289-46d7-a216-1699c9a0a5b8.json
+INFO:root:Stored widget id=21ce23bf-c1fb-42c5-92f1-1cb94d1a5d3b in S3 bucket widgets/henry-hops/21ce23bf-c1fb-42c5-92f1-1cb94d1a5d3b.json
+INFO:root:Stored widget id=4287bcdc-b93b-4b1c-a0b5-389fd7eaff4e in S3 bucket widgets/mary-matthews/4287bcdc-b93b-4b1c-a0b5-389fd7eaff4e.json
+INFO:root:Stored widget id=d8887c3a-64bb-47c7-8cf3-2cdf61d3ab6f in S3 bucket widgets/henry-hops/d8887c3a-64bb-47c7-8cf3-2cdf61d3ab6f.json
+INFO:root:Skipping widget 7e888bd3-1d1a-4791-a3cd-867e2e115648 of type: update
+INFO:root:Stored widget id=d14c9caf-da62-4f44-8a1a-2f2153b93f90 in S3 bucket widgets/henry-hops/d14c9caf-da62-4f44-8a1a-2f2153b93f90.json
+INFO:root:Stored widget id=4d26ea2f-4a9d-4489-b2ad-606cf877ab7d in S3 bucket widgets/mary-matthews/4d26ea2f-4a9d-4489-b2ad-606cf877ab7d.json
+INFO:root:Skipping widget 9f07e1e4-fc54-4c4e-8bab-acfbf275e791 of type: delete
+INFO:root:Stored widget id=abe33b61-f687-4d78-b040-26e733e7114c in S3 bucket widgets/henry-hops/abe33b61-f687-4d78-b040-26e733e7114c.json
+INFO:root:Skipping widget 2e2c95e8-c6ae-4329-b4ee-4392b211fd3a of type: update
+INFO:root:Stored widget id=cabb95bf-cf12-4129-8e3d-84a5b5ab4999 in S3 bucket widgets/henry-hops/cabb95bf-cf12-4129-8e3d-84a5b5ab4999.json
+INFO:root:Stored widget id=a8ce57d1-5329-4b35-985d-e55f9924c8f0 in S3 bucket widgets/john-jones/a8ce57d1-5329-4b35-985d-e55f9924c8f0.json
+INFO:root:Stored widget id=d286c6f8-c358-4c45-9d53-86262818d1c9 in S3 bucket widgets/john-jones/d286c6f8-c358-4c45-9d53-86262818d1c9.json
+INFO:root:Skipping widget a8ce57d1-5329-4b35-985d-e55f9924c8f0 of type: update
+INFO:root:Skipping widget 3bb51316-f8b8-4d88-a356-31e887585229 of type: update
+INFO:root:Skipping widget 507b30d0-1984-466f-8197-f25812627f08 of type: update
+INFO:root:Stored widget id=f9be5b6f-4b1e-4e91-a987-0036c7613dee in S3 bucket widgets/john-jones/f9be5b6f-4b1e-4e91-a987-0036c7613dee.json
+INFO:root:Stored widget id=1d50c52d-8fd1-4415-9a28-7708a37dd2b1 in S3 bucket widgets/mary-matthews/1d50c52d-8fd1-4415-9a28-7708a37dd2b1.json
+INFO:root:Stored widget id=8cb561fa-6aad-429a-821a-97bc8528fc1d in S3 bucket widgets/john-jones/8cb561fa-6aad-429a-821a-97bc8528fc1d.json
+INFO:root:Stored widget id=3d2de2eb-0195-4c60-ad9d-24726d243b02 in S3 bucket widgets/sue-smith/3d2de2eb-0195-4c60-ad9d-24726d243b02.json
+INFO:root:Stored widget id=9a942682-6bfa-4053-b298-5ed4f9170bd8 in S3 bucket widgets/john-jones/9a942682-6bfa-4053-b298-5ed4f9170bd8.json
+INFO:root:Skipping widget 259d6fd5-cd78-407b-89d9-3f41a0a3a8e6 of type: update
+INFO:root:Stored widget id=75d320e8-9a11-45ad-b96b-d0ef0fa61d58 in S3 bucket widgets/henry-hops/75d320e8-9a11-45ad-b96b-d0ef0fa61d58.json
+INFO:root:Stored widget id=b19e627c-b183-4c9e-a32a-cff5f6a81de2 in S3 bucket widgets/henry-hops/b19e627c-b183-4c9e-a32a-cff5f6a81de2.json
+INFO:root:Stored widget id=2b16a312-cb69-4155-986d-b77556d33100 in S3 bucket widgets/mary-matthews/2b16a312-cb69-4155-986d-b77556d33100.json
+INFO:root:Stored widget id=b0002158-2fcd-4baf-99b1-b7eb2ac8cd84 in S3 bucket widgets/henry-hops/b0002158-2fcd-4baf-99b1-b7eb2ac8cd84.json
+INFO:root:Stored widget id=525a5977-59b5-4404-86e6-e7f4739019bb in S3 bucket widgets/john-jones/525a5977-59b5-4404-86e6-e7f4739019bb.json
+INFO:root:Skipping widget 71698b44-5e13-45db-8e5e-717bfaaca54b of type: delete
+INFO:root:Skipping widget 7f193af8-a22a-4546-bdb5-351977d093d7 of type: update
+INFO:root:Skipping widget 7d9ab857-0fdc-4fb9-8144-732c536d7d78 of type: update
+INFO:root:Stored widget id=927d4c2a-46c5-4904-a8ca-1df02cc21ea3 in S3 bucket widgets/john-jones/927d4c2a-46c5-4904-a8ca-1df02cc21ea3.json
+INFO:root:Stored widget id=81450baa-6c07-46fa-ba8a-7c1201892319 in S3 bucket widgets/sue-smith/81450baa-6c07-46fa-ba8a-7c1201892319.json
+INFO:root:Skipping widget d87a824e-43be-4a96-8056-1cea11501550 of type: update
+INFO:root:Stored widget id=641c724e-1b7a-48bb-8e91-4a1c6bb9cb96 in S3 bucket widgets/mary-matthews/641c724e-1b7a-48bb-8e91-4a1c6bb9cb96.json
+INFO:root:Stored widget id=493d70ee-f1c7-4532-a2dd-6c290201301c in S3 bucket widgets/john-jones/493d70ee-f1c7-4532-a2dd-6c290201301c.json
+INFO:root:Stored widget id=f9d611e3-cc85-4dc9-b46e-b67835625665 in S3 bucket widgets/mary-matthews/f9d611e3-cc85-4dc9-b46e-b67835625665.json
+INFO:root:Skipping widget 03ffa195-ab56-4784-a458-d4c6e96b5eb8 of type: update
+INFO:root:Stored widget id=7f6edf4a-1998-40f6-9892-549602c7ba30 in S3 bucket widgets/henry-hops/7f6edf4a-1998-40f6-9892-549602c7ba30.json
+INFO:root:Skipping widget 475008eb-e289-46d7-a216-1699c9a0a5b8 of type: delete
+INFO:root:Stored widget id=1ec6f425-c3a7-4378-9c4d-dbc974862a62 in S3 bucket widgets/mary-matthews/1ec6f425-c3a7-4378-9c4d-dbc974862a62.json
+INFO:root:Stored widget id=4ee0f2ea-117b-4db4-928f-a69bc53f47b2 in S3 bucket widgets/john-jones/4ee0f2ea-117b-4db4-928f-a69bc53f47b2.json
+INFO:root:Skipping widget 28fa4b8d-05b9-4adb-bb0d-b980984c3f2f of type: delete
+INFO:root:Stored widget id=4c4c8b8b-1720-41c9-861b-e5b3eaa106f8 in S3 bucket widgets/mary-matthews/4c4c8b8b-1720-41c9-861b-e5b3eaa106f8.json
+INFO:root:Skipping widget d8887c3a-64bb-47c7-8cf3-2cdf61d3ab6f of type: update
+INFO:root:Skipping widget 13430998-46c0-4256-8660-5e83f9b607b7 of type: update
+INFO:root:Skipping widget e054095a-d797-4f40-8ff5-4473ef1a42b7 of type: update
+INFO:root:Stored widget id=726806ca-ac98-4807-8c25-5b70e10243db in S3 bucket widgets/sue-smith/726806ca-ac98-4807-8c25-5b70e10243db.json
+INFO:root:Skipping widget 480f095e-810e-4f01-918d-a43f89168857 of type: update
+INFO:root:Stored widget id=e91d097a-426a-405c-9185-79c9f9ca4596 in S3 bucket widgets/john-jones/e91d097a-426a-405c-9185-79c9f9ca4596.json
+INFO:root:Stored widget id=b16b6ce8-2b4b-42a1-b3ee-a214a7fa5d03 in S3 bucket widgets/sue-smith/b16b6ce8-2b4b-42a1-b3ee-a214a7fa5d03.json
+INFO:root:Skipping widget 57c6a61d-f7ca-47b9-9eff-707238a6d1ad of type: update
+INFO:root:Stored widget id=ed4dad80-d101-4407-8d14-3906675a7594 in S3 bucket widgets/sue-smith/ed4dad80-d101-4407-8d14-3906675a7594.json
+INFO:root:Stored widget id=dd217dcd-00e1-416c-9139-14f1e597c774 in S3 bucket widgets/john-jones/dd217dcd-00e1-416c-9139-14f1e597c774.json
+INFO:root:Stored widget id=db39c70e-a5e9-4224-851a-634a1799f41c in S3 bucket widgets/henry-hops/db39c70e-a5e9-4224-851a-634a1799f41c.json
+INFO:root:Stored widget id=2831e82c-fbce-4044-873f-bd85597d6159 in S3 bucket widgets/henry-hops/2831e82c-fbce-4044-873f-bd85597d6159.json
+INFO:root:Skipping widget b0002158-2fcd-4baf-99b1-b7eb2ac8cd84 of type: update
+INFO:root:Skipping widget 21ce23bf-c1fb-42c5-92f1-1cb94d1a5d3b of type: update
+INFO:root:Skipping widget 2e2c95e8-c6ae-4329-b4ee-4392b211fd3a of type: update
+INFO:root:Skipping widget d5d4c045-b44b-4fba-bf90-b582f8482c93 of type: delete
+INFO:root:Stored widget id=49ad6da3-f85b-4624-9be3-13828317f0e0 in S3 bucket widgets/mary-matthews/49ad6da3-f85b-4624-9be3-13828317f0e0.json
+INFO:root:Stored widget id=c7e8d371-dcc9-4c32-9b55-1203fb94c58d in S3 bucket widgets/sue-smith/c7e8d371-dcc9-4c32-9b55-1203fb94c58d.json
+INFO:root:Stored widget id=e1b3f877-cecc-4c58-b56b-1f511cd7b85f in S3 bucket widgets/sue-smith/e1b3f877-cecc-4c58-b56b-1f511cd7b85f.json
+INFO:root:Skipping widget 4c01a77a-03e2-480c-b264-59d30246756f of type: update
+INFO:root:Stored widget id=88442dcc-90ce-4bde-a6a2-330b44f4210e in S3 bucket widgets/sue-smith/88442dcc-90ce-4bde-a6a2-330b44f4210e.json
+INFO:root:Skipping widget 4c01a77a-03e2-480c-b264-59d30246756f of type: update
+INFO:root:Skipping widget f9be5b6f-4b1e-4e91-a987-0036c7613dee of type: update
+INFO:root:Stored widget id=8b4a8dd2-f6c3-425c-b493-a725eb32f138 in S3 bucket widgets/john-jones/8b4a8dd2-f6c3-425c-b493-a725eb32f138.json
+INFO:root:Stored widget id=eb1c91e3-b6e2-47b5-9c24-198c62a2d6cd in S3 bucket widgets/sue-smith/eb1c91e3-b6e2-47b5-9c24-198c62a2d6cd.json
+INFO:root:Skipping widget c5fd3d58-a15a-42ba-a848-3db3e2a14a41 of type: update
+INFO:root:Stored widget id=57272b73-c587-460b-8109-e93e03ecff10 in S3 bucket widgets/john-jones/57272b73-c587-460b-8109-e93e03ecff10.json
+INFO:root:Skipping widget 81450baa-6c07-46fa-ba8a-7c1201892319 of type: update
+INFO:root:Stored widget id=8d55f2b7-9286-49be-8ce8-191fc6f612c1 in S3 bucket widgets/john-jones/8d55f2b7-9286-49be-8ce8-191fc6f612c1.json
+INFO:root:Stored widget id=f59d3bac-7a70-43b0-8168-910a8cd95acc in S3 bucket widgets/henry-hops/f59d3bac-7a70-43b0-8168-910a8cd95acc.json
+INFO:root:Stored widget id=5e1fdb32-c17e-4cf5-b5fc-ee23e62713a3 in S3 bucket widgets/john-jones/5e1fdb32-c17e-4cf5-b5fc-ee23e62713a3.json
+INFO:root:Skipping widget c7e8d371-dcc9-4c32-9b55-1203fb94c58d of type: update
+INFO:root:Stored widget id=fbac7e0f-7aef-4617-8ca9-37d2e2803ea6 in S3 bucket widgets/henry-hops/fbac7e0f-7aef-4617-8ca9-37d2e2803ea6.json
+INFO:root:Stored widget id=df9b25b2-4d84-4bdf-a489-ffc24e376f11 in S3 bucket widgets/mary-matthews/df9b25b2-4d84-4bdf-a489-ffc24e376f11.json
+INFO:root:Skipping widget 21ce23bf-c1fb-42c5-92f1-1cb94d1a5d3b of type: delete
+INFO:root:Stored widget id=aeea5bed-4a8a-4492-9888-512d1d04f520 in S3 bucket widgets/sue-smith/aeea5bed-4a8a-4492-9888-512d1d04f520.json
+INFO:root:Stored widget id=917a5edb-9a45-4457-85df-8432030349cf in S3 bucket widgets/mary-matthews/917a5edb-9a45-4457-85df-8432030349cf.json
+INFO:root:Stored widget id=e4ffb06a-892d-4e1a-a274-0a371e508ea7 in S3 bucket widgets/john-jones/e4ffb06a-892d-4e1a-a274-0a371e508ea7.json
+INFO:root:Stored widget id=229ab486-86b9-43d3-ab8b-4f24dbf4ecdd in S3 bucket widgets/mary-matthews/229ab486-86b9-43d3-ab8b-4f24dbf4ecdd.json
+INFO:root:Skipping widget 66ee3a66-a78a-453e-94f4-f8e96f06259d of type: update
+INFO:root:Skipping widget 4c4c8b8b-1720-41c9-861b-e5b3eaa106f8 of type: update
+INFO:root:Stored widget id=bede5ba9-1b36-466b-9617-d2d964a9d05d in S3 bucket widgets/john-jones/bede5ba9-1b36-466b-9617-d2d964a9d05d.json
+INFO:root:Stored widget id=34206a94-4be2-416f-9b5d-3be0fe3aaf00 in S3 bucket widgets/mary-matthews/34206a94-4be2-416f-9b5d-3be0fe3aaf00.json
+INFO:root:Stored widget id=f9fd4c57-e181-4eb6-a9dc-66fa6ea7626c in S3 bucket widgets/john-jones/f9fd4c57-e181-4eb6-a9dc-66fa6ea7626c.json
+INFO:root:Skipping widget 3bb51316-f8b8-4d88-a356-31e887585229 of type: update
+INFO:root:Stored widget id=d686afd3-270d-49a4-b3d4-18bc5ff4c9f8 in S3 bucket widgets/henry-hops/d686afd3-270d-49a4-b3d4-18bc5ff4c9f8.json
+INFO:root:Skipping widget db39c70e-a5e9-4224-851a-634a1799f41c of type: delete
+INFO:root:Stored widget id=37946358-d801-4827-b118-e27eaa0916de in S3 bucket widgets/john-jones/37946358-d801-4827-b118-e27eaa0916de.json
+INFO:root:Skipping widget d87a824e-43be-4a96-8056-1cea11501550 of type: update
+INFO:root:Skipping widget e91d097a-426a-405c-9185-79c9f9ca4596 of type: delete
+INFO:root:Stored widget id=1d65b369-a580-4838-a3c9-0f571d43da27 in S3 bucket widgets/mary-matthews/1d65b369-a580-4838-a3c9-0f571d43da27.json
+INFO:root:Stored widget id=b9c3c1cc-d8aa-45d6-9ea9-768257746d10 in S3 bucket widgets/sue-smith/b9c3c1cc-d8aa-45d6-9ea9-768257746d10.json
+INFO:root:Stored widget id=2987844a-8264-4de8-bfd1-a5991f1b5a3d in S3 bucket widgets/sue-smith/2987844a-8264-4de8-bfd1-a5991f1b5a3d.json
+INFO:root:Skipping widget 18007df8-be0c-4d5d-ba0b-cc6a669fc8bb of type: delete
+INFO:root:Stored widget id=fa18fc1f-cdf5-4411-836a-ae1192c2a29c in S3 bucket widgets/sue-smith/fa18fc1f-cdf5-4411-836a-ae1192c2a29c.json
+INFO:root:Stored widget id=d29c0208-eaef-4a9a-ac58-a8def7b79f6d in S3 bucket widgets/mary-matthews/d29c0208-eaef-4a9a-ac58-a8def7b79f6d.json
+INFO:root:Skipping widget d92e99b1-d4b9-43dd-b29b-b39b49b9d22b of type: update
+INFO:root:Stored widget id=59e90c04-1365-45c2-be9a-e6543e0cfdd2 in S3 bucket widgets/henry-hops/59e90c04-1365-45c2-be9a-e6543e0cfdd2.json
+INFO:root:Skipping widget 44799133-0662-4054-94a0-85bf855123e4 of type: update
+INFO:root:Skipping widget 2987844a-8264-4de8-bfd1-a5991f1b5a3d of type: update
+INFO:root:Stored widget id=868c8bad-fd29-4830-935d-e84395ed0bf2 in S3 bucket widgets/henry-hops/868c8bad-fd29-4830-935d-e84395ed0bf2.json
+INFO:root:Stored widget id=e5006130-a8db-4229-8540-fa5504cd14c4 in S3 bucket widgets/sue-smith/e5006130-a8db-4229-8540-fa5504cd14c4.json
+INFO:root:Stored widget id=b62379c7-a7ec-4df7-b553-9ab40f4bfa3e in S3 bucket widgets/henry-hops/b62379c7-a7ec-4df7-b553-9ab40f4bfa3e.json
+INFO:root:Stored widget id=91b4487d-8bc2-4fde-a217-a0befdfc920c in S3 bucket widgets/sue-smith/91b4487d-8bc2-4fde-a217-a0befdfc920c.json
+INFO:root:Skipping widget 8d55f2b7-9286-49be-8ce8-191fc6f612c1 of type: update
+INFO:root:Stored widget id=d50d7c40-ece8-472f-a7f2-769e07b8b058 in S3 bucket widgets/mary-matthews/d50d7c40-ece8-472f-a7f2-769e07b8b058.json
+INFO:root:Skipping widget 59e90c04-1365-45c2-be9a-e6543e0cfdd2 of type: update
+INFO:root:Skipping widget c5fd3d58-a15a-42ba-a848-3db3e2a14a41 of type: update
+INFO:root:Stored widget id=2de60bff-bb4a-429a-9a27-dea96b13a181 in S3 bucket widgets/john-jones/2de60bff-bb4a-429a-9a27-dea96b13a181.json
+INFO:root:Stored widget id=0bf5dbaf-111d-488e-8737-d62a44809a6c in S3 bucket widgets/mary-matthews/0bf5dbaf-111d-488e-8737-d62a44809a6c.json
+INFO:root:Stored widget id=5a1dea2e-c235-4071-92d1-3aa2cd6f7ca1 in S3 bucket widgets/sue-smith/5a1dea2e-c235-4071-92d1-3aa2cd6f7ca1.json
+INFO:root:Stored widget id=0f752510-98a7-4ccf-abc9-6da95b3096dc in S3 bucket widgets/sue-smith/0f752510-98a7-4ccf-abc9-6da95b3096dc.json
+INFO:root:Stored widget id=abb3caa0-5776-436d-8859-04d602e89f91 in S3 bucket widgets/john-jones/abb3caa0-5776-436d-8859-04d602e89f91.json
+INFO:root:Skipping widget c3f37b21-167a-418f-acf1-0a08272bfcf9 of type: delete
+INFO:root:Stored widget id=a9fd94ff-b5b8-4821-a38b-91625e9bac59 in S3 bucket widgets/sue-smith/a9fd94ff-b5b8-4821-a38b-91625e9bac59.json
+INFO:root:Skipping widget feafa7b0-d5ce-437b-8ba6-ad13e4e1bec4 of type: update
+INFO:root:Skipping widget a8ce57d1-5329-4b35-985d-e55f9924c8f0 of type: delete
+INFO:root:Skipping widget 917a5edb-9a45-4457-85df-8432030349cf of type: update
+INFO:root:Skipping widget 75d320e8-9a11-45ad-b96b-d0ef0fa61d58 of type: update
+INFO:root:Stored widget id=a5f4d392-130d-480f-b37e-2f45c9e5a670 in S3 bucket widgets/mary-matthews/a5f4d392-130d-480f-b37e-2f45c9e5a670.json
+INFO:root:Stored widget id=8aa09abd-365e-4e56-a45c-db1bd2a8f95a in S3 bucket widgets/sue-smith/8aa09abd-365e-4e56-a45c-db1bd2a8f95a.json
+INFO:root:Stored widget id=4db878d6-e636-48de-b73b-6c557248740e in S3 bucket widgets/john-jones/4db878d6-e636-48de-b73b-6c557248740e.json
+INFO:root:Skipping widget 525a5977-59b5-4404-86e6-e7f4739019bb of type: update
+INFO:root:Stored widget id=b92dbccd-03d2-4ec0-8f96-394dc39abdcc in S3 bucket widgets/sue-smith/b92dbccd-03d2-4ec0-8f96-394dc39abdcc.json
+INFO:root:Stored widget id=4867a4d4-081d-4118-8472-3948b5083e40 in S3 bucket widgets/sue-smith/4867a4d4-081d-4118-8472-3948b5083e40.json
+INFO:root:	Consumer stopped by user
 INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
-INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Consumer started
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/2b473951-9bbc-4ca2-8192-0f0734f840ed
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/eb6ff1a6-26f9-42f1-a085-41cf8187d9ae
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/afd58dcb-4bfc-49f5-a3d2-de6cacbbd257
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/487d3b8d-92bc-4f64-902a-07830f4e5c83
+INFO:root:Stored widget in S3 bucket widgets/john-jones/621d01be-e5bc-4a42-bd31-a7c63bff4ab7
+INFO:root:Stored widget in S3 bucket widgets/john-jones/0d48d0c8-bd2e-48f7-b690-ae9c16480f0d
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/103c133d-f765-4e8c-b4aa-eee93b77402c
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/ab423695-7aa9-43a7-a2dd-2a9c98522578
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/cb67ba0f-de87-4b8b-8359-8c84f644c0c6
+INFO:root:Stored widget in S3 bucket widgets/sue-smith/94de9104-e06f-4064-b54e-343d1a3cf273
+INFO:root:Stored widget in S3 bucket widgets/john-jones/e0348f49-e9db-4d57-901b-dac785d4019d
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/bb770e9c-b1ae-479b-bd68-5c02de0db7fe
+INFO:root:Stored widget in S3 bucket widgets/john-jones/0ed731e3-153e-45c4-874a-85d8a830d836
+INFO:root:Stored widget in S3 bucket widgets/sue-smith/da12d451-2603-4cc9-8776-79620e2daa85
+INFO:root:Stored widget in S3 bucket widgets/john-jones/dcb54aa5-c1ac-4800-a43a-5bbf8640ff35
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/553a63a9-1f10-4510-a589-dca1f9ae6bb6
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/c68c56cf-01eb-4685-be87-59b9a661394b
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/85df4e1c-da2c-4b85-91aa-70d2c7bcb2b1
+INFO:root:Stored widget in S3 bucket widgets/sue-smith/05397f30-83fd-41c5-9660-caabebc8dc5b
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/5f1b3020-9781-438d-823a-f35451762b91
+INFO:root:Stored widget in S3 bucket widgets/sue-smith/49f683bc-47aa-4b2a-8268-1ff4b9b768df
+INFO:root:Stored widget in S3 bucket widgets/john-jones/c00503f0-b01f-4c93-81a0-c6a528c8d116
+INFO:root:Stored widget in S3 bucket widgets/sue-smith/c9888541-b4d2-4017-bcb7-f8f8d6568614
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/7306a5f7-a581-4579-b690-865a44d8619b
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/54fa880a-9b56-474d-8192-81dd4a572f7d
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/a3cfdfe8-8546-423e-9cbb-78e7592a423a
+INFO:root:	Consumer stopped by user
