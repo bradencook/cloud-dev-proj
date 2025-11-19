@@ -1,3 +1,4 @@
 labsuser.pem
 .DS_Store
 __pycache__/
+.env

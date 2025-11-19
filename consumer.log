@@ -1100,3 +1100,199 @@ INFO:root:Stored widget in S3 bucket widgets/henry-hops/b18a005e-be55-4394-9a55-
 INFO:root:Consumer stopped by user
 INFO:root:Deleted widget id=123
 INFO:root:Updated widget id=123
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Consumer started
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Consumer started
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/7c9c5ddc-42a4-487f-9802-8da34e1d592a
+INFO:root:Stored widget id=ac54afac-5f53-4590-9d19-939d49c58d68 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/047238b7-995f-4de9-bd8a-93d8a8629fc9
+INFO:root:Stored widget id=0535d3d7-9962-49a7-a377-fcedf87dd439 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/john-jones/c24772cc-dff3-4267-bd4c-4d85771117e9
+INFO:root:Stored widget id=fb129956-b10e-47c6-88fb-79a975a5eab5 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/5b3c0ab3-373b-4056-96b6-af97f0145799
+INFO:root:Stored widget id=e2c69bce-e5fd-4f42-b844-3b624d628f3f in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/sue-smith/525cd650-a99f-40a0-8edf-8c167895e68c
+INFO:root:Stored widget id=2269c5fd-f434-47c8-9185-8ef64ccafd55 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/5a858c17-b854-42e2-afbd-5b4896457156
+INFO:root:Stored widget id=838540d8-b16d-46e1-9de9-2cd41acf2588 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/0e1ff03d-d9c1-431a-aa92-87657050b821
+INFO:root:Stored widget id=8ec2cc44-61c1-4258-9a41-d9661bd718ae in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/sue-smith/c8eea32c-acc4-406c-9753-375346065265
+INFO:root:Stored widget id=c1b43dba-0a07-4f17-9cd1-f4aa747fdff2 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/e68608e9-95af-4fb7-bce6-090d80fa51f3
+INFO:root:Stored widget id=31728d82-22eb-4cda-b74a-4eb6bdf69489 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/16795a5e-8e42-4313-8e68-44ce6293eb79
+INFO:root:Stored widget id=2c228fcc-ed40-4a60-9862-3061f40f028e in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/e9fbbd9b-7129-469e-9201-1a6d8192245e
+INFO:root:Stored widget id=b38a9593-eb79-423f-8c9a-786e5b842cbe in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/sue-smith/a8d63a93-81a5-4648-98af-7b97e2046669
+INFO:root:Stored widget id=6f78496a-7415-42b3-8686-490bec285f66 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/46927c1f-5977-4148-9282-902c59681495
+INFO:root:Stored widget id=ea469320-cd57-4749-a020-98aedd274167 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/f3129eaa-a392-4bf8-b338-19bbed4bbe62
+INFO:root:Stored widget id=0a264e27-4cc8-4049-a56d-780c33f3ca6b in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/652c9b8e-1a74-43b5-b0b7-40f62e36097b
+INFO:root:Stored widget id=8f4f8f63-a8fc-42eb-801e-4c44469a5055 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/ff39b2f4-a69d-482a-8348-ff13d4ee089d
+INFO:root:Stored widget id=28b2e43a-6444-4dc6-b12a-187023d99e4c in DynamoDB table: widgets
+INFO:root:Stored widget id=22c71530-ea88-42c4-9772-1b74698108e6 in DynamoDB table: widgets
+INFO:root:Stored widget id=c4cf2f5b-a537-45e3-8e79-0726c5aed039 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/716329fd-24c1-4cb9-9060-0537d68cfe97
+INFO:root:Stored widget id=ab62fb92-dc99-466f-a984-6c9b19baf091 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/john-jones/57c27b79-3ce4-49c0-9b12-626e69a5e19d
+INFO:root:Stored widget id=63acdd74-00af-49b3-8d49-9d262334eee5 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/john-jones/b81ea245-ffef-416e-ad9a-4af858630f7f
+INFO:root:Stored widget id=469096ab-1527-4b5c-970c-131808913541 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/john-jones/0535d3d7-9962-49a7-a377-fcedf87dd439
+INFO:root:Updated widget id=0535d3d7-9962-49a7-a377-fcedf87dd439
+INFO:root:Stored widget id=d0432bf2-0223-48c6-9e6f-b6f419c7b14e in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/dd0d3485-e128-4c93-abe5-5d861186cb95
+INFO:root:Stored widget id=652c9b8e-1a74-43b5-b0b7-40f62e36097b in DynamoDB table: widgets
+INFO:root:Updated widget id=652c9b8e-1a74-43b5-b0b7-40f62e36097b
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/0f2fde23-7830-4f72-8c39-bda8e2a8ea6a
+INFO:root:Deleted widget id=ab62fb92-dc99-466f-a984-6c9b19baf091 from DynamoDB table: widgets
+INFO:root:Deleted widget id=ab62fb92-dc99-466f-a984-6c9b19baf091
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/1683c131-6114-4b43-8336-7177c6e1f073
+INFO:root:Stored widget id=cf3568f7-044c-40ba-a70f-67ea54a7f54d in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/5a858c17-b854-42e2-afbd-5b4896457156
+INFO:root:Updated widget id=5a858c17-b854-42e2-afbd-5b4896457156
+INFO:root:Stored widget id=c3575bb6-f7c4-47f8-89ec-740799cecca5 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/70a6dc35-26c9-4553-9778-c1472bf93a40
+INFO:root:Stored widget id=15bb562e-6382-485c-a261-f18373d7dc49 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/83075e15-c513-4f17-83f9-1af30225246b
+INFO:root:Stored widget id=af0bcfb6-6c61-4cae-b52b-8032aacf8d3b in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/sue-smith/9995a1a8-3edc-4e73-9116-e6a2e31e4c64
+INFO:root:Stored widget id=c24772cc-dff3-4267-bd4c-4d85771117e9 in DynamoDB table: widgets
+INFO:root:Updated widget id=c24772cc-dff3-4267-bd4c-4d85771117e9
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/0afc804f-5648-4c48-9598-da119f650036
+INFO:root:Stored widget id=db88acda-c08d-4f26-9a04-9cf26f2339e8 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/c6cdf9d3-fa30-40e9-b8c7-6defaeff86f1
+INFO:root:Stored widget id=4f455b52-ab36-4934-9241-23dabf7ea2fd in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/john-jones/aaa493b0-90f0-46a1-8993-1c2cbab24c2c
+INFO:root:Stored widget id=3efd6166-89af-4886-b135-0089d19302aa in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/aebdef81-194d-4a7f-b0a5-05fd60e85d6b
+INFO:root:Stored widget id=bf6638e2-e879-4597-b3c6-1daa4abeeee7 in DynamoDB table: widgets
+INFO:root:Stored widget id=31728d82-22eb-4cda-b74a-4eb6bdf69489 in DynamoDB table: widgets
+INFO:root:Updated widget id=31728d82-22eb-4cda-b74a-4eb6bdf69489
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/610b7dfa-b8ef-4869-8f6f-977746fffc67
+INFO:root:Stored widget id=5e0e86e5-92a9-4932-93db-5d2486ada70d in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/70a6dc35-26c9-4553-9778-c1472bf93a40
+INFO:root:Updated widget id=70a6dc35-26c9-4553-9778-c1472bf93a40
+INFO:root:Stored widget id=5f60cf46-a898-4362-9ad8-9aee54f63c02 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/john-jones/d6db82f3-94b7-4234-9236-611a24b69041
+INFO:root:Stored widget id=46927c1f-5977-4148-9282-902c59681495 in DynamoDB table: widgets
+INFO:root:Updated widget id=46927c1f-5977-4148-9282-902c59681495
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/489e46f0-a8ea-49ac-aec9-0f788d7f6432
+INFO:root:Stored widget id=6195a7ec-c4e9-4ac8-a5ab-a98ee6dc83c1 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/e68608e9-95af-4fb7-bce6-090d80fa51f3
+INFO:root:Updated widget id=e68608e9-95af-4fb7-bce6-090d80fa51f3
+INFO:root:Stored widget id=bed997c1-a37a-401c-9b3d-f879acfb6e41 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/sue-smith/6195a7ec-c4e9-4ac8-a5ab-a98ee6dc83c1
+INFO:root:Updated widget id=6195a7ec-c4e9-4ac8-a5ab-a98ee6dc83c1
+INFO:root:Stored widget id=9ff015c1-8846-48a4-aabf-93e222075644 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/62d0809d-2228-4aee-9575-2425b922af02
+INFO:root:Stored widget id=60f1cb64-7ee3-44ca-9ee6-82f1168bfe43 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/sue-smith/60f1cb64-7ee3-44ca-9ee6-82f1168bfe43
+INFO:root:Updated widget id=60f1cb64-7ee3-44ca-9ee6-82f1168bfe43
+INFO:root:Stored widget id=e6a3cc06-f708-4f19-b01a-0ef298f3dbcb in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/john-jones/6dc4bf5c-2c1e-46d2-934f-4d8d7079d05c
+INFO:root:Stored widget id=b3df713f-7482-4a1b-b1dd-4fc1430647f3 in DynamoDB table: widgets
+INFO:root:Stored widget id=885992a4-24e0-4b3c-bc77-a67128832e3d in DynamoDB table: widgets
+INFO:root:Stored widget id=81d1e8b9-eb22-4520-abef-7895dfd9b41c in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/john-jones/bf6638e2-e879-4597-b3c6-1daa4abeeee7
+INFO:root:Updated widget id=bf6638e2-e879-4597-b3c6-1daa4abeeee7
+INFO:root:Stored widget id=9995a1a8-3edc-4e73-9116-e6a2e31e4c64 in DynamoDB table: widgets
+INFO:root:Updated widget id=9995a1a8-3edc-4e73-9116-e6a2e31e4c64
+INFO:root:Deleted widget id=2c228fcc-ed40-4a60-9862-3061f40f028e
+INFO:root:Stored widget id=e6a3cc06-f708-4f19-b01a-0ef298f3dbcb in DynamoDB table: widgets
+INFO:root:Updated widget id=e6a3cc06-f708-4f19-b01a-0ef298f3dbcb
+INFO:root:Stored widget id=57c27b79-3ce4-49c0-9b12-626e69a5e19d in DynamoDB table: widgets
+INFO:root:Updated widget id=57c27b79-3ce4-49c0-9b12-626e69a5e19d
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/afa68792-7459-4b42-bd70-0d61046d9fbe
+INFO:root:Stored widget id=5ede8488-b937-4d5e-b406-0363824e4b17 in DynamoDB table: widgets
+INFO:root:Deleted widget id=e6a3cc06-f708-4f19-b01a-0ef298f3dbcb
+INFO:root:Deleted widget id=22c71530-ea88-42c4-9772-1b74698108e6 from DynamoDB table: widgets
+INFO:root:Deleted widget id=22c71530-ea88-42c4-9772-1b74698108e6
+INFO:root:Stored widget in S3 bucket widgets/john-jones/d61dffce-ebf6-4522-8448-53d678db36dc
+INFO:root:Stored widget id=6f78496a-7415-42b3-8686-490bec285f66 in DynamoDB table: widgets
+INFO:root:Updated widget id=6f78496a-7415-42b3-8686-490bec285f66
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/8f4f8f63-a8fc-42eb-801e-4c44469a5055
+INFO:root:Updated widget id=8f4f8f63-a8fc-42eb-801e-4c44469a5055
+INFO:root:Stored widget id=4e792e02-f0fd-43ff-8752-a09a6b237766 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/c9f86272-3584-426d-b034-23ef502b465d
+INFO:root:Stored widget id=bd0a09fd-1647-46d5-addf-188777376d5e in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/20c31107-fb45-4129-946f-ce3eff42f688
+INFO:root:Stored widget id=b3df713f-7482-4a1b-b1dd-4fc1430647f3 in DynamoDB table: widgets
+INFO:root:Updated widget id=b3df713f-7482-4a1b-b1dd-4fc1430647f3
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/572194c2-2018-4456-93d9-700002a42d52
+INFO:root:Stored widget id=1d485a19-4b11-4bda-9b5b-24a8fb640bbc in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/sue-smith/eec0ffc8-2be5-4187-85ab-7629152f4cdb
+INFO:root:Stored widget id=525cd650-a99f-40a0-8edf-8c167895e68c in DynamoDB table: widgets
+INFO:root:Updated widget id=525cd650-a99f-40a0-8edf-8c167895e68c
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/572194c2-2018-4456-93d9-700002a42d52
+INFO:root:Updated widget id=572194c2-2018-4456-93d9-700002a42d52
+INFO:root:Stored widget id=731a6fc0-b60c-4122-8f6a-c3475fa0a0cf in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/john-jones/aaa493b0-90f0-46a1-8993-1c2cbab24c2c
+INFO:root:Updated widget id=aaa493b0-90f0-46a1-8993-1c2cbab24c2c
+INFO:root:Stored widget id=916dd240-0299-4809-944c-a58121ab2b0c in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/john-jones/69df112d-a705-46ad-bb86-327693356d5f
+INFO:root:Deleted widget id=c4cf2f5b-a537-45e3-8e79-0726c5aed039 from DynamoDB table: widgets
+INFO:root:Deleted widget id=c4cf2f5b-a537-45e3-8e79-0726c5aed039
+INFO:root:Stored widget in S3 bucket widgets/john-jones/fb129956-b10e-47c6-88fb-79a975a5eab5
+INFO:root:Updated widget id=fb129956-b10e-47c6-88fb-79a975a5eab5
+INFO:root:Stored widget id=aebdef81-194d-4a7f-b0a5-05fd60e85d6b in DynamoDB table: widgets
+INFO:root:Updated widget id=aebdef81-194d-4a7f-b0a5-05fd60e85d6b
+INFO:root:Stored widget in S3 bucket widgets/sue-smith/ba2aabdb-765b-45ff-a34d-970b0aaaf77a
+INFO:root:Stored widget id=08e1b3b5-3026-4602-9158-fab899620869 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/6c877287-58db-4303-8fb6-93b27caa9a9c
+INFO:root:Stored widget id=83075e15-c513-4f17-83f9-1af30225246b in DynamoDB table: widgets
+INFO:root:Updated widget id=83075e15-c513-4f17-83f9-1af30225246b
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/bab09e51-522c-4f18-9a4a-a5bb2de36e39
+INFO:root:Stored widget id=dd0d3485-e128-4c93-abe5-5d861186cb95 in DynamoDB table: widgets
+INFO:root:Updated widget id=dd0d3485-e128-4c93-abe5-5d861186cb95
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/f55e1535-5ad6-4d22-949a-704f9e1957c6
+INFO:root:Stored widget id=533bf58f-31cf-4e3e-8938-3b84a475c682 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/sue-smith/15bb562e-6382-485c-a261-f18373d7dc49
+INFO:root:Updated widget id=15bb562e-6382-485c-a261-f18373d7dc49
+INFO:root:Stored widget id=db60a630-4838-4f18-a77e-d84a6cfd71a8 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/00605824-24d2-4b68-a9aa-1375b1949fb3
+INFO:root:Stored widget id=b1231755-b7ef-40d2-84dc-319687392bd2 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/437c37cf-b6fc-4a1e-a857-93d33938e772
+INFO:root:Stored widget id=b2b05733-e341-465c-beb0-9a3feca1620b in DynamoDB table: widgets
+INFO:root:Deleted widget id=652c9b8e-1a74-43b5-b0b7-40f62e36097b from DynamoDB table: widgets
+INFO:root:Deleted widget id=652c9b8e-1a74-43b5-b0b7-40f62e36097b
+INFO:root:Deleted widget object: widgets/henry-hops/46927c1f-5977-4148-9282-902c59681495
+INFO:root:Deleted widget id=46927c1f-5977-4148-9282-902c59681495
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/63acdd74-00af-49b3-8d49-9d262334eee5
+INFO:root:Updated widget id=63acdd74-00af-49b3-8d49-9d262334eee5
+INFO:root:Stored widget id=8f4f8f63-a8fc-42eb-801e-4c44469a5055 in DynamoDB table: widgets
+INFO:root:Updated widget id=8f4f8f63-a8fc-42eb-801e-4c44469a5055
+INFO:root:Stored widget in S3 bucket widgets/john-jones/fcf07f24-d839-4123-bc77-2c10479e4902
+INFO:root:Stored widget id=42a2684e-d244-48ae-8d5d-6bfed4ed4a36 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/0b9862b7-4694-464d-9af5-5ac5c59efc7a
+INFO:root:Deleted widget id=838540d8-b16d-46e1-9de9-2cd41acf2588 from DynamoDB table: widgets
+INFO:root:Deleted widget id=838540d8-b16d-46e1-9de9-2cd41acf2588
+INFO:root:Stored widget in S3 bucket widgets/john-jones/f20cd5ff-16c4-4e18-b7ee-e127ee382422
+INFO:root:Stored widget id=0afc804f-5648-4c48-9598-da119f650036 in DynamoDB table: widgets
+INFO:root:Updated widget id=0afc804f-5648-4c48-9598-da119f650036
+INFO:root:Stored widget in S3 bucket widgets/john-jones/fcf07f24-d839-4123-bc77-2c10479e4902
+INFO:root:Updated widget id=fcf07f24-d839-4123-bc77-2c10479e4902
+INFO:root:Stored widget id=4f455b52-ab36-4934-9241-23dabf7ea2fd in DynamoDB table: widgets
+INFO:root:Updated widget id=4f455b52-ab36-4934-9241-23dabf7ea2fd
+INFO:root:Stored widget in S3 bucket widgets/sue-smith/885992a4-24e0-4b3c-bc77-a67128832e3d
+INFO:root:Updated widget id=885992a4-24e0-4b3c-bc77-a67128832e3d
+INFO:root:Stored widget id=fb129956-b10e-47c6-88fb-79a975a5eab5 in DynamoDB table: widgets
+INFO:root:Updated widget id=fb129956-b10e-47c6-88fb-79a975a5eab5
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/51427819-00c8-4c1e-8bd5-9e5900995bd2
+INFO:root:Stored widget id=fe6a497f-6204-4011-b6ba-284f357f45b7 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/henry-hops/f3129eaa-a392-4bf8-b338-19bbed4bbe62
+INFO:root:Updated widget id=f3129eaa-a392-4bf8-b338-19bbed4bbe62
+INFO:root:Stored widget id=4aa57474-8728-420f-a6bd-5edebf92e2e9 in DynamoDB table: widgets
+INFO:root:Stored widget in S3 bucket widgets/john-jones/d399e2c0-0e55-4030-abf6-108d292a61c1
+INFO:root:Stored widget id=525cd650-a99f-40a0-8edf-8c167895e68c in DynamoDB table: widgets
+INFO:root:Updated widget id=525cd650-a99f-40a0-8edf-8c167895e68c
+INFO:root:Stored widget in S3 bucket widgets/mary-matthews/29a9429a-6e9b-41dd-9a29-6cd0904cb3da
+INFO:root:Deleted widget id=fe6a497f-6204-4011-b6ba-284f357f45b7 from DynamoDB table: widgets
+INFO:root:Deleted widget id=fe6a497f-6204-4011-b6ba-284f357f45b7
+INFO:root:Consumer stopped by user
